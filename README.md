@@ -77,16 +77,16 @@
 
 <!----------------------------------- Star Section ------------------------------------>
 
- <h2><i>My GitHub Stats</i></h2>
 
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rupesh-1711&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="Rupesh-1711" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupesh-1711&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="Rupesh-1711" height="139"/>
-</p>
-<br>
+<h2 align="center">📊<i> My Github Stats :</i></h2>
+<div>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rupesh-1711&theme=highcontrast" alt="Rupesh Patil" height="250px" width="45%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=rupesh-1711&theme=highcontrast&show_icons=true&count_private=true" alt="Github Stats" height="255px" width="45%"/>
+</div>
   
- <!--------------------------------------------------------------------------------> 
-   <h2><i>Recent GitHub Activity</i></h2>
-  <br/>
-   <a href="https://github.com/Rupesh-1711"><img alt="Rupesh-1711 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rupesh-1711&custom_title=Rupesh-1711's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+</br>  
+
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupesh-1711&layout=default&langs_count=8&hide=&theme=highcontrast" alt="Rupesh Patil" height="275px" width="30%"/>
+  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=rupesh-1711&theme=xcode"&height="275px" width="65%"/>
+</div>
