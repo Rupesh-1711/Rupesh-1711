@@ -7,7 +7,7 @@
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
     I'm Rupesh
 </h1>
-
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&lines=Java+Backend+Developer+%3A)" /> </h3>
 <!----------------------------------- About Section ------------------------------------>
 
 <h3 align="center">
