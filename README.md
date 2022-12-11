@@ -88,5 +88,6 @@
 
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupesh-1711&layout=default&langs_count=8&hide=&theme=highcontrast" alt="Rupesh Patil" height="275px" width="30%"/>
-  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=rupesh-1711&theme=xcode"&height="275px" width="65%"/>
+
+    
 </div>
